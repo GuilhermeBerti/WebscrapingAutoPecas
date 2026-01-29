@@ -23,10 +23,7 @@ Este projeto realiza **web scraping** da loja online [Jocar](https://www.jocar.c
 ## 🖼️ Demonstração
 1. Informe a **URL da categoria** (exemplo: aerofólios).  
 2. O app realiza a **paginação automática** e coleta os produtos.  
-3. Os dados são exibidos em uma **tabela interativa** com filtros.  
-
-![Exemplo de Tela](https://github.com/seu-usuario/nome-do-repo/assets/0000000/exemplo.png)  
-*(adicione aqui um print do seu app rodando no Streamlit)*  
+3. Os dados são exibidos em uma **tabela interativa** com filtros.   
 
 ---
 
