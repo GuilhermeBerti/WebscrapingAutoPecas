@@ -41,7 +41,7 @@ Este projeto realiza **web scraping** da loja online [Jocar](https://www.jocar.c
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/GuilhermeBerti/WebscrapingAutoPecas.git
 cd nome-do-repo
 
 python -m streamlit run
